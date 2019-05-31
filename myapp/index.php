@@ -77,6 +77,14 @@
 </head>
 
 <body>
+   <div id="header">
+      <div style="float:left; margin-top:20px">
+         <img src="assets/docker.png" style="width:200px;height:200px;" />
+      </div>
+      <div style="float:right; margin-top:20px">
+         <img src="assets/kubernetes.png" style="width:200px;height:200px;" />
+      </div>
+   </div>
    <div class="container">
       <form name="input" class="form-signin" action="" method="post">
          <label for="username">Username:</label><input class="form-control" type="text"
